@@ -1,5 +1,5 @@
 # CONVERT RGB IMAGE INTO GRAY SCALE IMAGE
-> ** NOTE: **  This project is currently a work in Progress. The full core and system are completed, but the report in my university has not Done. So that, I will update full source code on the next month ( 2/2026).
+> ** NOTE: **  This project is currently a work in Progress. The full core and system are completed, but the report in my university has not Done. So that, I will update full source code in the next month ( 2/2026).
 ## Tools: 
 * Vivado
 * Matlab
