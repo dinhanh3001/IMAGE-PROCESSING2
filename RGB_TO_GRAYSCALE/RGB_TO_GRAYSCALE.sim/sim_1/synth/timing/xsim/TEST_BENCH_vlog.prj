@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"TEST_BENCH_time_synth.v" \
+"../../../../../RGB_TO_GRAYSCALE.srcs/sim_1/new/TEST_BENCH.v" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,33 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/HE_THONG_SO_HDL/THUC_HANH/LAB_2_VIVADO/BAI_2/RGB_TO_GRAYSCALE/RGB_TO_GRAYSCALE.sim/sim_1/synth/timing/xsim/TEST_BENCH_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IBUF_UNIQ_BASE_
+INFO: [VRFC 10-311] analyzing module IBUF_HD1
+INFO: [VRFC 10-311] analyzing module IBUF_HD10
+INFO: [VRFC 10-311] analyzing module IBUF_HD11
+INFO: [VRFC 10-311] analyzing module IBUF_HD12
+INFO: [VRFC 10-311] analyzing module IBUF_HD13
+INFO: [VRFC 10-311] analyzing module IBUF_HD14
+INFO: [VRFC 10-311] analyzing module IBUF_HD15
+INFO: [VRFC 10-311] analyzing module IBUF_HD16
+INFO: [VRFC 10-311] analyzing module IBUF_HD17
+INFO: [VRFC 10-311] analyzing module IBUF_HD18
+INFO: [VRFC 10-311] analyzing module IBUF_HD19
+INFO: [VRFC 10-311] analyzing module IBUF_HD2
+INFO: [VRFC 10-311] analyzing module IBUF_HD20
+INFO: [VRFC 10-311] analyzing module IBUF_HD21
+INFO: [VRFC 10-311] analyzing module IBUF_HD22
+INFO: [VRFC 10-311] analyzing module IBUF_HD23
+INFO: [VRFC 10-311] analyzing module IBUF_HD24
+INFO: [VRFC 10-311] analyzing module IBUF_HD25
+INFO: [VRFC 10-311] analyzing module IBUF_HD26
+INFO: [VRFC 10-311] analyzing module IBUF_HD27
+INFO: [VRFC 10-311] analyzing module IBUF_HD3
+INFO: [VRFC 10-311] analyzing module IBUF_HD4
+INFO: [VRFC 10-311] analyzing module IBUF_HD5
+INFO: [VRFC 10-311] analyzing module IBUF_HD6
+INFO: [VRFC 10-311] analyzing module IBUF_HD7
+INFO: [VRFC 10-311] analyzing module IBUF_HD8
+INFO: [VRFC 10-311] analyzing module IBUF_HD9
+INFO: [VRFC 10-311] analyzing module RGB_TO_GRAYSCALE
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/HE_THONG_SO_HDL/THUC_HANH/LAB_2_VIVADO/BAI_2/RGB_TO_GRAYSCALE/RGB_TO_GRAYSCALE.srcs/sim_1/new/TEST_BENCH.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TEST_BENCH
